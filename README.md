@@ -2,7 +2,7 @@
 
 Project Overview
 
-This project focuses on performing deep Exploratory Data Analysis (EDA) on a retail sales dataset using PostgreSQL/MySQL. The goal was to extract meaningful business insights regarding profitability, regional performance, and seasonal growth trends to support data-driven decision-making.
+This project focuses on performing deep Exploratory Data Analysis (EDA) on a retail sales dataset using MySQL. The goal was to extract meaningful business insights regarding profitability, regional performance, and seasonal growth trends to support data-driven decision-making.
 
 Technical Skills Demonstrated
 Advanced Querying: Utilization of JOINs, GROUP BY, and HAVING clauses for data aggregation.
