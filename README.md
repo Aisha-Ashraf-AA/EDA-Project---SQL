@@ -1,6 +1,7 @@
 # EDA-Project---SQL
 
 Project Overview
+
 This project focuses on performing deep Exploratory Data Analysis (EDA) on a retail sales dataset using PostgreSQL/MySQL. The goal was to extract meaningful business insights regarding profitability, regional performance, and seasonal growth trends to support data-driven decision-making.
 
 Technical Skills Demonstrated
@@ -15,6 +16,7 @@ Temporal Analysis: Executed Year-over-Year (YoY) and Month-over-Month (MoM) grow
 Data Transformation: Performed schema modifications (ALTER TABLE) and data updates to optimize the dataset for time-series analysis.
 
 Key Business Questions Addressed
+
 Profitability: Identified the top 10 highest profit-generating products and analyzed profit growth by sub-category.
 
 Sales Dynamics: Calculated Average Order Value (AOV) and identified sales peaks across different product categories.
